@@ -1,4 +1,4 @@
-# Workflow for building and deploying an Academic Pages / Jekyll site to GitHub Pages
+# Deploy Yiru Chen's Academic Website to GitHub Pages
 name: Deploy Academic Pages template site to Pages
 
 on:
