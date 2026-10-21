@@ -1,4 +1,3 @@
-
 ---
 title: "When Words Are Not Enough: Emotional Spillovers from Fed Chair Communication to Global Financial Markets"
 collection: publications
