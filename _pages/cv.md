@@ -30,7 +30,7 @@ author_profile: true
 }
 
 .academic-cv .cv-affiliation {
-  color: #666;
+  color: #777;
   margin-bottom: 10px;
 }
 
@@ -42,7 +42,7 @@ author_profile: true
 .academic-cv .cv-section-title {
   font-size: 1.3em;
   font-weight: 700;
-  border-bottom: 2px solid #333;
+  border-bottom: 2px solid #777;
   padding-bottom: 8px;
   margin-bottom: 20px;
 }
@@ -64,7 +64,7 @@ author_profile: true
 
 .academic-cv .cv-date {
   white-space: nowrap;
-  color: #666;
+  color: #777;
   font-size: 0.9em;
 }
 
@@ -194,29 +194,10 @@ author_profile: true
 
     </div>
 
-    <div class="cv-entry">
-
-      <div class="cv-entry-header">
-        <span class="cv-entry-title">
-          Harbin Normal University
-        </span>
-        <span class="cv-date">
-          Sep 2019 – Jun 2023
-        </span>
-      </div>
-
-      <div class="cv-detail">
-        Trade Economy<br>
-        School of Economics<br>
-        China
-      </div>
-
-    </div>
-
   </section>
 
 
-  <!-- PUBLICATIONS -->
+  <!-- JOURNAL PUBLICATIONS -->
 
   <section class="cv-section">
 
@@ -471,7 +452,7 @@ author_profile: true
   </section>
 
 
-  <!-- AWARDS -->
+  <!-- HONOURS AND AWARDS -->
 
   <section class="cv-section">
 
@@ -488,9 +469,7 @@ author_profile: true
       </li>
 
       <li>
-        <strong>
-          Invited and Funded Presenter
-        </strong> —
+        <strong>Invited and Funded Presenter</strong> —
         Young Researcher Poster Session,
         Conference on Macroeconomic Policy,
         Swiss National Bank and Study Center
@@ -503,9 +482,7 @@ author_profile: true
       </li>
 
       <li>
-        <strong>
-          Departmental First-class Scholarship
-        </strong>
+        <strong>Departmental First-class Scholarship</strong>
         (2022).
       </li>
 
