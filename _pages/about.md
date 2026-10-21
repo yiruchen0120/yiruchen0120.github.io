@@ -41,20 +41,6 @@ Using multimodal emotion measures and high-frequency financial market data, we e
 
 Our analysis explores cross-country heterogeneity, global risk conditions, and the interaction between different communication modalities.
 
-*Working paper.*
-
-## Research in Progress
-
-### Central Bank Mandates and Communication Strategies
-
-This project investigates how the content, scope, and hierarchy of statutory central bank mandates shape communication strategies and reputational priorities.
-
-It examines how central banks respond when macroeconomic outcomes deviate from their policy objectives, with particular attention to the Federal Reserve, the European Central Bank, and the People's Bank of China.
-
-### International Transmission of Central Bank Communication
-
-This project explores how multimodal signals from Federal Reserve Chair communication propagate across international financial markets, and how cross-border financial linkages and global risk conditions shape these spillovers.
-
 ## Selected Academic Activities
 
 - **2026 — Best Poster Award**, Leeds Economics Doctoral Conference, University of Leeds.
