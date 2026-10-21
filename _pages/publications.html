@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Publications"
@@ -16,45 +17,83 @@ author_profile: true
 </p>
 {% endif %}
 
-<!-- ============================= -->
-<!-- Journal Articles -->
-<!-- ============================= -->
-
 <h2>Journal Articles</h2>
 <hr />
 
-{% assign journal_papers = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
+<div style="margin-bottom: 35px;">
 
-{% if journal_papers.size > 0 %}
+  <h3>
+    <a href="https://doi.org/10.1007/s12061-026-09984-z"
+       target="_blank" rel="noopener noreferrer">
+      China's Ecological Conservation Redline and Regional Ecosystem Service Value:
+      Based on Machine Learning and the Quasi-Natural Experimental Evidence of Staggered DID
+    </a>
+  </h3>
 
-  {% for post in journal_papers %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <p>
+    Guangcheng Ma, Junhong Bai, <strong>Yiru Chen</strong><br>
+    <em>Applied Spatial Analysis and Policy</em>, 2026.
+  </p>
 
-{% else %}
+  <p>
+    <a href="https://doi.org/10.1007/s12061-026-09984-z"
+       target="_blank" rel="noopener noreferrer">
+      View Article / DOI
+    </a>
+  </p>
 
-  <p>Journal publications will be updated soon.</p>
+</div>
 
-{% endif %}
+<div style="margin-bottom: 35px;">
 
+  <h3>
+    <a href="https://doi.org/10.3390/su18125905"
+       target="_blank" rel="noopener noreferrer">
+      Does the Ecological Conservation Redline Policy Enhance Multidimensional
+      Ecosystem Services? A Causal Assessment of Mechanisms and Governance Pathways
+    </a>
+  </h3>
 
-<!-- ============================= -->
-<!-- Working Papers -->
-<!-- ============================= -->
+  <p>
+    Hao Liu, Guangcheng Ma, Mahamane Famanta,
+    <strong>Yiru Chen</strong><br>
+    <em>Sustainability</em>, 2026, 18(12), 5905.
+  </p>
+
+  <p>
+    <a href="https://doi.org/10.3390/su18125905"
+       target="_blank" rel="noopener noreferrer">
+      View Article / DOI
+    </a>
+  </p>
+
+</div>
+
+<div style="margin-bottom: 35px;">
+
+  <h3>
+    Frontiers in Environmental Science — Article details to be added
+  </h3>
+
+  <p>
+    <strong>Yiru Chen</strong> (co-author)<br>
+    <em>Frontiers in Environmental Science</em>, 2024.
+  </p>
+
+  <p>
+    Article title and DOI to be confirmed.
+  </p>
+
+</div>
 
 <h2>Working Papers</h2>
 <hr />
 
-{% assign working_papers = site.publications | where: "category", "workingpapers" | sort: "date" | reverse %}
+{% assign working_papers = site.publications
+  | where: "category", "workingpapers"
+  | sort: "date"
+  | reverse %}
 
-{% if working_papers.size > 0 %}
-
-  {% for post in working_papers %}
-    {% include archive-single.html %}
-  {% endfor %}
-
-{% else %}
-
-  <p>Working papers will be updated soon.</p>
-
-{% endif %}
+{% for post in working_papers %}
+  {% include archive-single.html %}
+{% endfor %}
