@@ -6,12 +6,15 @@ category: workingpapers
 permalink: /publication/when-words-are-not-enough/
 date: 2026-10-01
 venue: "Working Paper"
+paperurl: "/files/when_words_are_not_enough.pdf"
 citation: "Chen, Y., Nasir, M. A., and Wei, X. (2026). When Words Are Not Enough: Emotional Spillovers from Fed Chair Communication to Global Financial Markets."
 ---
 
 **Authors:** Yiru Chen, Muhammad Ali Nasir, and Xingjie Wei
 
 **Status:** Working Paper
+
+[**Download Paper (PDF)**](/files/when_words_are_not_enough.pdf)
 
 ### Abstract
 
