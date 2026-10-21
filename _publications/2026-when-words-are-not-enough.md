@@ -13,7 +13,7 @@ citation: "Chen, Y., Nasir, M. A., and Wei, X. (2026). When Words Are Not Enough
 
 **Status:** Working Paper
 
-[**Download Paper (PDF)**](/files/when_words_are_not_enough.pdf)
+[**Download Paper (PDF)**](/files/When_words_are_not_enough_Emotional_spillovers_from_Fed_Chair_communication_to_global_financial_markets.pdf)
 
 ### Abstract
 
